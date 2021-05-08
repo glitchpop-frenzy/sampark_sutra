@@ -23,7 +23,7 @@ Next steps for this app -
 
 - Add unit tests for the app.
 
-##Screenshots
+## Screenshots
 
 https://user-images.githubusercontent.com/55953830/117549701-7e271300-b059-11eb-8ac7-3b870ef010b6.mp4
 
